@@ -1,0 +1,1 @@
+pyuic5 -x C:\Users\admin\Desktop\CellFlow\my_ui.ui -o C:\Users\admin\Desktop\CellFlow\my_ui.py
